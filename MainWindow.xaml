@@ -1,0 +1,28 @@
+﻿<Window x:Class="Flashcards.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Flashcards"
+        xmlns:viewModels="clr-namespace:Flashcards.ViewModels"
+        xmlns:views="clr-namespace:Flashcards.Views"
+        mc:Ignorable="d" Title="Flashcard">
+    <Grid>
+        <Grid.Resources>
+            <DataTemplate DataType="{x:Type viewModels:MenuViewModel}">
+                <views:MenuView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModels:SetListingViewModel}">
+                <views:SetListingView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModels:SessionViewModel}">
+                <views:SessionView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModels:SessionSummaryViewModel}">
+                <views:SessionSummaryView/>
+            </DataTemplate>
+        </Grid.Resources>
+
+        <ContentControl Content="{Binding CurrentViewModel}"/>
+    </Grid>
+</Window>

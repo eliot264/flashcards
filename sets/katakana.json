@@ -1,0 +1,446 @@
+{
+  "Name": "Katakana",
+  "Description": "A set for learning the Japanese syllabary - Katakana. On one side is a syllabe in the Katakana, and on the other is its Romaji transcription. Source: https://en.wikipedia.org/wiki/Katakana",
+  "Cards": [
+    {
+      "Question": "ア",
+      "Answer": "a"
+    },
+	{
+      "Question": "イ",
+      "Answer": "i"
+    },
+	{
+      "Question": "ウ",
+      "Answer": "u"
+    },
+	{
+      "Question": "エ",
+      "Answer": "e"
+    },
+	{
+      "Question": "オ",
+      "Answer": "o"
+    },
+	{
+      "Question": "カ",
+      "Answer": "ka"
+    },
+	{
+      "Question": "キ",
+      "Answer": "ki"
+    },
+	{
+      "Question": "ク",
+      "Answer": "ku"
+    },
+	{
+      "Question": "ケ",
+      "Answer": "ke"
+    },
+	{
+      "Question": "コ",
+      "Answer": "ko"
+    },
+	{
+      "Question": "サ",
+      "Answer": "sa"
+    },
+	{
+      "Question": "シ",
+      "Answer": "shi"
+    },
+	{
+      "Question": "ス",
+      "Answer": "su"
+    },
+	{
+      "Question": "セ",
+      "Answer": "se"
+    },
+	{
+      "Question": "ソ",
+      "Answer": "so"
+    },
+	{
+      "Question": "タ",
+      "Answer": "ta"
+    },
+	{
+      "Question": "チ",
+      "Answer": "chi"
+    },
+	{
+      "Question": "ツ",
+      "Answer": "tsu"
+    },
+	{
+      "Question": "テ",
+      "Answer": "te"
+    },
+	{
+      "Question": "ト",
+      "Answer": "to"
+    },
+	{
+      "Question": "ナ",
+      "Answer": "na"
+    },
+	{
+      "Question": "ニ",
+      "Answer": "ni"
+    },
+	{
+      "Question": "ヌ",
+      "Answer": "nu"
+    },
+	{
+      "Question": "ネ",
+      "Answer": "ne"
+    },
+	{
+      "Question": "ノ",
+      "Answer": "no"
+    },
+	{
+      "Question": "ハ",
+      "Answer": "ha"
+    },
+	{
+      "Question": "ヒ",
+      "Answer": "hi"
+    },
+	{
+      "Question": "フ",
+      "Answer": "fu"
+    },
+	{
+      "Question": "ヘ",
+      "Answer": "he"
+    },
+	{
+      "Question": "ホ",
+      "Answer": "ho"
+    },
+	{
+      "Question": "マ",
+      "Answer": "ma"
+    },
+	{
+      "Question": "ミ",
+      "Answer": "mi"
+    },
+	{
+      "Question": "ム",
+      "Answer": "mu"
+    },
+	{
+      "Question": "メ",
+      "Answer": "me"
+    },
+	{
+      "Question": "モ",
+      "Answer": "mo"
+    },
+	{
+      "Question": "ヤ",
+      "Answer": "ya"
+    },
+	{
+      "Question": "ユ",
+      "Answer": "yu"
+    },
+	{
+      "Question": "エ",
+      "Answer": "ye"
+    },
+	{
+      "Question": "ヨ",
+      "Answer": "yo"
+    },
+	{
+      "Question": "ラ",
+      "Answer": "ra"
+    },
+	{
+      "Question": "リ",
+      "Answer": "ri"
+    },
+	{
+      "Question": "ル",
+      "Answer": "ru"
+    },
+	{
+      "Question": "レ",
+      "Answer": "re"
+    },
+	{
+      "Question": "ロ",
+      "Answer": "ro"
+    },
+	{
+      "Question": "ワ",
+      "Answer": "wa"
+    },
+	{
+      "Question": "ヰ",
+      "Answer": "wi"
+    },
+	{
+      "Question": "ヱ",
+      "Answer": "we"
+    },
+	{
+      "Question": "ヲ",
+      "Answer": "wo"
+    },
+	{
+      "Question": "キャ",
+      "Answer": "kya"
+    },
+	{
+      "Question": "キュ",
+      "Answer": "kyu"
+    },
+	{
+      "Question": "キョ",
+      "Answer": "kyo"
+    },
+	{
+      "Question": "シャ",
+      "Answer": "sha"
+    },
+	{
+      "Question": "シュ",
+      "Answer": "shu"
+    },
+	{
+      "Question": "ショ",
+      "Answer": "sho"
+    },
+	{
+      "Question": "チャ",
+      "Answer": "cha"
+    },
+	{
+      "Question": "チュ",
+      "Answer": "chu"
+    },
+	{
+      "Question": "チョ",
+      "Answer": "cho"
+    },
+	{
+      "Question": "ニャ",
+      "Answer": "nya"
+    },
+	{
+      "Question": "ニュ",
+      "Answer": "nyu"
+    },
+	{
+      "Question": "ニョ",
+      "Answer": "nyo"
+    },
+	{
+      "Question": "ヒャ",
+      "Answer": "hya"
+    },
+	{
+      "Question": "ヒュ",
+      "Answer": "hyu"
+    },
+	{
+      "Question": "ヒョ",
+      "Answer": "hyo"
+    },
+	{
+      "Question": "ミャ",
+      "Answer": "mya"
+    },
+	{
+      "Question": "ミュ",
+      "Answer": "myu"
+    },
+	{
+      "Question": "ミョ",
+      "Answer": "myo"
+    },
+	{
+      "Question": "リャ",
+      "Answer": "rya"
+    },
+	{
+      "Question": "リュ",
+      "Answer": "ryu"
+    },
+	{
+      "Question": "リョ",
+      "Answer": "ryo"
+    },
+	{
+      "Question": "ガ",
+      "Answer": "ga"
+    },
+	{
+      "Question": "ギ",
+      "Answer": "gi"
+    },
+	{
+      "Question": "グ",
+      "Answer": "gu"
+    },
+	{
+      "Question": "ゲ",
+      "Answer": "ge"
+    },
+	{
+      "Question": "ゴ",
+      "Answer": "go"
+    },
+	{
+      "Question": "ザ",
+      "Answer": "za"
+    },
+	{
+      "Question": "ジ",
+      "Answer": "ji"
+    },
+	{
+      "Question": "ズ",
+      "Answer": "zu"
+    },
+	{
+      "Question": "ゼ",
+      "Answer": "ze"
+    },
+	{
+      "Question": "ゾ",
+      "Answer": "zo"
+    },
+	{
+      "Question": "ダ",
+      "Answer": "da"
+    },
+	{
+      "Question": "ヂ",
+      "Answer": "ji"
+    },
+	{
+      "Question": "ヅ",
+      "Answer": "zu"
+    },
+	{
+      "Question": "デ",
+      "Answer": "de"
+    },
+	{
+      "Question": "ド",
+      "Answer": "do"
+    },
+	{
+      "Question": "バ",
+      "Answer": "ba"
+    },
+	{
+      "Question": "ビ",
+      "Answer": "bi"
+    },
+	{
+      "Question": "ブ",
+      "Answer": "bu"
+    },
+	{
+      "Question": "ベ",
+      "Answer": "be"
+    },
+	{
+      "Question": "ボ",
+      "Answer": "bo"
+    },
+	{
+      "Question": "パ",
+      "Answer": "pa"
+    },
+	{
+      "Question": "ピ",
+      "Answer": "pi"
+    },
+	{
+      "Question": "プ",
+      "Answer": "pu"
+    },
+	{
+      "Question": "ペ",
+      "Answer": "pe"
+    },
+	{
+      "Question": "ポ",
+      "Answer": "po"
+    },
+	{
+      "Question": "ギャ",
+      "Answer": "gya"
+    },
+	{
+      "Question": "ギュ",
+      "Answer": "gyu"
+    },
+	{
+      "Question": "ギョ",
+      "Answer": "gyo"
+    },
+	{
+      "Question": "ジャ",
+      "Answer": "ja"
+    },
+	{
+      "Question": "ジュ",
+      "Answer": "ju"
+    },
+	{
+      "Question": "ジョ",
+      "Answer": "jo"
+    },
+	{
+      "Question": "ヂャ",
+      "Answer": "ja"
+    },
+	{
+      "Question": "ヂュ",
+      "Answer": "ju"
+    },
+	{
+      "Question": "ヂョ",
+      "Answer": "jo"
+    },
+	{
+      "Question": "ビャ",
+      "Answer": "bya"
+    },
+	{
+      "Question": "ビュ",
+      "Answer": "byu"
+    },
+	{
+      "Question": "ビョ",
+      "Answer": "byo"
+    },
+	{
+      "Question": "ピャ",
+      "Answer": "pya"
+    },
+	{
+      "Question": "ピュ",
+      "Answer": "pyu"
+    },
+	{
+      "Question": "ピョ",
+      "Answer": "pyo"
+    },
+	{
+      "Question": "ン",
+      "Answer": "n"
+    }
+  ]
+}
